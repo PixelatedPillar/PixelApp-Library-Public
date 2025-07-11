@@ -16,7 +16,6 @@
     {
       "name": "Flero",
       "bundleIdentifier": "com.sp67.flero",
-      "marketplaceID": "",
       "developerName": "speedy67",
       "subtitle": "A GD iOS mod menu for free!",
       "localizedDescription": "Another GD iOS mod menu similar to iCreate Pro. With similar features, all for free!",
@@ -42,7 +41,6 @@
           "localizedDescription": null,
           "downloadURL": "https://flero.pages.dev/",
           "size": 157900000,
-          "buildVersion": "",
           "minOSVersion": null
         }
       ],
@@ -55,7 +53,6 @@
     {
       "name": "Youtube++",
       "bundleIdentifier": "com.google.ios.youtubeplus",
-      "marketplaceID": "",
       "developerName": "PixelatedDoesGaming",
       "subtitle": "YouTube? No. YouTube++? Yes!",
       "localizedDescription": "This is a youtube tweak built and compiled by me from dayanch96’s Youtube Plus/YouTube Lite source. Many features are available here like no ads, no promos, etc.",
@@ -89,7 +86,6 @@
           "localizedDescription": null,
           "downloadURL": "https://github.com/dayanch96/YTLite",
           "size": 115300000,
-          "buildVersion": "123",
           "minOSVersion": null
         }
       ],
@@ -112,7 +108,6 @@
     {
       "name": "iCreate Pro",
       "bundleIdentifier": "com.camila314.icreate",
-      "marketplaceID": "",
       "developerName": "camila314",
       "subtitle": "An awesome GD iOS mod menu.",
       "localizedDescription": "This is iCreate Pro, one of the best GD iOS mod menus! There are loads of features here to try out that aren’t in the normal version of GD iOS. Some features are noclip hack, texture pack support, unlock all icons, editor hacks, and more! So what are you waiting for? Download iCreate and enjoy everything here.",
@@ -166,7 +161,6 @@
           "localizedDescription": null,
           "downloadURL": "https://icreate.pro/download",
           "size": 157700000,
-          "buildVersion": "",
           "minOSVersion": null
         }
       ],
