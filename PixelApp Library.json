@@ -38,11 +38,11 @@
       "versions": [
         {
           "version": "2.207",
-          "date": "2025-07-11T06:42:00+08:00",
+          "date": "2025-07-10T22:42:00+08:00",
           "localizedDescription": null,
           "downloadURL": "https://flero.pages.dev/",
           "size": 157900000,
-          "buildVersion": "123",
+          "buildVersion": "",
           "minOSVersion": null
         }
       ],
@@ -161,12 +161,12 @@
       },
       "versions": [
         {
+          "version": "2.207",
+          "date": "2025-07-11T07:10:00+08:00",
+          "localizedDescription": null,
           "downloadURL": "https://icreate.pro/download",
           "size": 157700000,
-          "version": "2.207",
-          "buildVersion": "123",
-          "date": "2025-07-11T15:10:00+08:00",
-          "localizedDescription": null,
+          "buildVersion": "",
           "minOSVersion": null
         }
       ],
