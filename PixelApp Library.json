@@ -37,12 +37,12 @@
       ],
       "versions": [
         {
+          "version": "2.207",
+          "date": "2025-07-11T06:42:00+08:00",
+          "localizedDescription": null,
           "downloadURL": "https://flero.pages.dev/",
           "size": 157900000,
-          "version": "2.207",
-          "buildVersion": null,
-          "date": "2025-07-11T14:42:00+08:00",
-          "localizedDescription": null,
+          "buildVersion": "123",
           "minOSVersion": null
         }
       ],
@@ -61,7 +61,7 @@
       "localizedDescription": "This is a youtube tweak built and compiled by me from dayanch96’s Youtube Plus/YouTube Lite source. Many features are available here like no ads, no promos, etc.",
       "iconURL": "https://i.imgur.com/Qh7DVNm.png",
       "tintColor": "#fc0434",
-      "category": "other",
+      "category": "entertainment",
       "screenshots": {
         "iphone": [],
         "ipad": [
@@ -84,12 +84,12 @@
       },
       "versions": [
         {
+          "version": "20.20.7",
+          "date": "2025-07-11T07:03:00+08:00",
+          "localizedDescription": null,
           "downloadURL": "https://github.com/dayanch96/YTLite",
           "size": 115300000,
-          "version": "20.20.7",
-          "buildVersion": null,
-          "date": "2025-07-11T15:03:00+08:00",
-          "localizedDescription": null,
+          "buildVersion": "123",
           "minOSVersion": null
         }
       ],
@@ -159,7 +159,17 @@
           }
         ]
       },
-      "versions": [],
+      "versions": [
+        {
+          "downloadURL": "https://icreate.pro/download",
+          "size": 157700000,
+          "version": "2.207",
+          "buildVersion": "123",
+          "date": "2025-07-11T15:10:00+08:00",
+          "localizedDescription": null,
+          "minOSVersion": null
+        }
+      ],
       "appPermissions": {
         "entitlements": [],
         "privacy": {}
