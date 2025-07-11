@@ -35,7 +35,17 @@
           "height": 1170
         }
       ],
-      "versions": [],
+      "versions": [
+        {
+          "downloadURL": "https://flero.pages.dev/",
+          "size": 157900000,
+          "version": "2.207",
+          "buildVersion": null,
+          "date": "2025-07-11T14:42:00+08:00",
+          "localizedDescription": null,
+          "minOSVersion": null
+        }
+      ],
       "appPermissions": {
         "entitlements": [],
         "privacy": {}
@@ -72,7 +82,17 @@
           }
         ]
       },
-      "versions": [],
+      "versions": [
+        {
+          "downloadURL": "https://github.com/dayanch96/YTLite",
+          "size": 115300000,
+          "version": "20.20.7",
+          "buildVersion": null,
+          "date": "2025-07-11T15:03:00+08:00",
+          "localizedDescription": null,
+          "minOSVersion": null
+        }
+      ],
       "appPermissions": {
         "entitlements": [],
         "privacy": {
