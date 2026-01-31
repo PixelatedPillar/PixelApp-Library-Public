@@ -1,0 +1,81 @@
+{
+  "name": "The Pixelated Favs",
+  "subtitle": "Woohoo!!!",
+  "description": "All of my favorites compiled into one single repo.",
+  "iconURL": "https://i.imgur.com/UYsttko.png",
+  "website": "",
+  "patreonURL": "",
+  "tintColor": "#230500",
+  "featuredApps": [
+    "com.camila314.icreate"
+  ],
+  "apps": [
+    {
+      "name": "YTLite + Tweaks (driftywinds)",
+      "bundleIdentifier": "com.google.ios.youtube",
+      "marketplaceID": "",
+      "developerName": "dayanch96",
+      "subtitle": "A flexible enhancer for YouTube on iOS | If you want to donate: - https://ko-fi.com/driftywinds",
+      "localizedDescription": "Use v20.10.4 if you want to use cast, from here -\\n\\nhttps://t.me/+rvcObIvOpctiMDI9\\n\\nA modified version of Youtube supercharged with YTLite (by @dayanch96)",
+      "iconURL": "https://i.imgur.com/LUKlKRX.png",
+      "tintColor": "#fc0434",
+      "category": "entertainment",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://github.com/ramramzz/descfsr/releases/download/v0.5/05c91c4f-9620-465c-8b5c-5bb1b3cb99aa.ipa",
+          "size": 125300000,
+          "version": "21.04.2",
+          "buildVersion": null,
+          "date": "2026-01-31T05:02:00+08:00",
+          "localizedDescription": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSCameraUsageDescription": "This lets you create videos using the app.",
+          "NSUserTrackingUsageDescription": "To personalize ads and provide ad measurement, YouTube will link activity from this app with activity from non-Google apps and websites.",
+          "NSBluetoothPeripheralUsageDescription": "YouTube needs bluetooth access to scan for nearby Cast devices.",
+          "NSLocalNetworkUsageDescription": "Access to your network allows YouTube to discover and connect to devices such as your TV.",
+          "NSAppleMusicUsageDescription": "This lets you add your own audio files to your videos.",
+          "NSMicrophoneUsageDescription": "This lets you include audio with your videos and search using your voice.",
+          "NSLocationWhenInUseUsageDescription": "This enables local content discovery, improved recommendations, and enhanced search results.",
+          "NSContactsUsageDescription": "Your contacts will be sent to YouTube servers to help you find friends to share videos with.",
+          "NSPhotoLibraryUsageDescription": "This lets you upload media you've already created."
+        }
+      },
+      "patreon": {}
+    },
+    {
+      "name": "iCreate Pro",
+      "bundleIdentifier": "com.camila314.icreate",
+      "marketplaceID": "",
+      "developerName": "camila314",
+      "subtitle": "Geometry Dash hacks for iOS.",
+      "localizedDescription": "iCreate Pro, developed by camila314, is a premium collection of tweaks, mods, and new features for the iOS edition of Geometry Dash.",
+      "iconURL": "https://i.imgur.com/0qH9uxk.png",
+      "tintColor": "#f4ca0d",
+      "category": "games",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://objectstorage.us-phoenix-1.oraclecloud.com/n/axe9yayefpvx/b/iCreateVersions/o/iCreatePro_6.10.1.ipa",
+          "size": 157800000,
+          "version": "2.207",
+          "buildVersion": null,
+          "date": "2026-01-30T12:41:00+08:00",
+          "localizedDescription": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "patreon": {}
+    }
+  ],
+  "news": []
+}
